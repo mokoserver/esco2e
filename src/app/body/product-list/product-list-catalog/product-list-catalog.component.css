@@ -1,0 +1,18 @@
+.activeBasket {
+    background: #036a3f;
+    border-color: #036a3f;
+    color: #fff;
+}
+
+.back {
+    position: absolute;
+}
+
+.relative {
+    position: relative;
+}
+
+.card-center {
+    top: 92px;
+    left: 100px;
+}
