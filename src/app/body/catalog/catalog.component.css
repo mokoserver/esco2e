@@ -10,7 +10,7 @@
 
 .faded{
 
-  width: 75%;
+  width: 100%;
   height: auto;
   margin: 0;
   padding: 10px 10px 10px 10px;
@@ -19,21 +19,6 @@
 
 }
 
-.four1{
-
-  padding: 10px 0px 0px 0px;
-
-}
-.four2{
-
-  padding: 3px 0px 0px 0px;
-
-}
-.four3{
-
-  padding: 3px 0px 10px 0px;
-
-}
 
 
 

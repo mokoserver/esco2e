@@ -58,7 +58,7 @@ NOTE: This is Header style file. All Header related style included in this file.
   color: #ff7f00;
 }
 .single-mega-item > li:hover > a{
-  color: #48ee34;
+  color: #8c040b;
 }
 /*dropdwn Style*/
 .dropdwn {
@@ -395,7 +395,7 @@ NOTE: This is Header style file. All Header related style included in this file.
   text-align: center;
 }
 .total-cart-in:hover .cart-toggler > a {
-  color: #48ee34;
+  color: #8c040b;
 }
 .cart-icon {
   font-size: 20px;

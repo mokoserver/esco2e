@@ -7,47 +7,47 @@
   Design and Developed by: codecarnival
 
 -----------------------------------------------------------------------------------*/
-.theme-bg {background-color: #036A3F;}
+.theme-bg {background-color: #8c040b;}
 .blog-item .blog-desc {
-  background: rgba(3, 106, 63, 0.95) none repeat scroll 0 0;
+  background: rgba(140, 4, 11, 0.95) none repeat scroll 0 0;
 }
 .mark, mark {
-  background: #036A3F none repeat scroll 0 0;
+  background: #8c040b none repeat scroll 0 0;
 }
 .mean-container .mean-nav ul li a:hover {
   color: а;
 }
 textarea:focus {
-  border-color: #036A3F;
+  border-color: #8c040b;
 }
 .up-comming-time .time-count {
-  border: 1px solid #036A3F;
+  border: 1px solid #8c040b;
 }
 .contact-address:hover i {
-  background: #036A3F none repeat scroll 0 0;
+  background: #8c040b none repeat scroll 0 0;
 }
 span.tooltip-content {
-  color: #036A3F;
+  color: #8c040b;
 }
 a.button {
-  background: #036A3F;
+  background: #8c040b;
 }
 .pro-tab-menu ul li.active a {
-  border-bottom: 1px solid #036A3F;
+  border-bottom: 1px solid #8c040b;
 }
 .nivo-controlNav a.active {
-  background: #036A3F none repeat scroll 0 0;
+  background: #8c040b none repeat scroll 0 0;
 }
 .submit-btn-1 {
-  background: #036A3F;
+  background: #8c040b;
 }
 .header-search-inner::before {
-  background: #036A3F none repeat scroll 0 0;
+  background: #8c040b none repeat scroll 0 0;
 }
 
 input[type="text"]:focus,
 input[type="password"]:focus {
-  border: 1px solid #036A3F;
+  border: 1px solid #8c040b;
 }
 
 
@@ -57,149 +57,149 @@ input[type="password"]:focus {
 /*default*/
 a:focus,
 a:hover {
-    color: #036A3F;
+    color: #8c040b;
     text-decoration: none;
 }
-.text-theme { color: #036A3F; }
+.text-theme { color: #8c040b; }
 .btn-hover-2::before {
-  background: #036A3F none repeat scroll 0 0;
+  background: #8c040b none repeat scroll 0 0;
 }
 .slick-arrow-1 .slick-arrow:hover {
-  color: #036A3F;
+  color: #8c040b;
 }
 .slick-arrow-2 .arrow-prev.slick-arrow:hover, .slick-arrow-2 .arrow-next.slick-arrow:hover {
-  color: #036A3F;
-  border-color: #036A3F;
+  color: #8c040b;
+  border-color: #8c040b;
 }
 .slick-arrow-3 .arrow-prev.slick-arrow:hover, .slick-arrow-3 .arrow-next.slick-arrow:hover {
-  color: #036A3F;
+  color: #8c040b;
 }
 .slick-dots-1 .slick-dots li.slick-active {
-  background: #036A3F;
+  background: #8c040b;
 }
 .quick-add-to-cart .single_add_to_cart_button:hover {
-  background: #036A3F none repeat scroll 0 0;
+  background: #8c040b none repeat scroll 0 0;
 }
 #scrollUp:hover {
-  background: #036A3F none repeat scroll 0 0;
+  background: #8c040b none repeat scroll 0 0;
 }
 /*header*/
 .main-menu > li:hover > a{
-  color: #036A3F;
+  color: #8c040b;
 }
 .dropdwn > li:hover > a{
-  color: #036A3F;
+  color: #8c040b;
 }
 .main-menu > li > a::before, .dropdwn li a::before, .single-mega-item li a::before {
-  background: #036A3F none repeat scroll 0 0;
+  background: #8c040b none repeat scroll 0 0;
 }
 .single-mega-item > li:hover > a{
-  color: #036A3F;
+  color: #8c040b;
 }
 .sticky .main-menu > li:hover > a{
-  color: #036A3F;
+  color: #8c040b;
 }
 .total-cart-in:hover .cart-toggler > a {
-  color: #036A3F;
+  color: #8c040b;
 }
 .del-icon > a:hover > i {
-  color: #036A3F;
+  color: #8c040b;
 }
 .top-cart-inner.subtotal span {
-  color: #036A3F;
+  color: #8c040b;
 }
 .user-meta > li > ul > li > a:hover {
-  color: #036A3F;
+  color: #8c040b;
 }
 /*footer*/
 .footer-menu li:hover a, .footer-menu li:hover a i {
-  color: #036A3F;
+  color: #8c040b;
 }
 .border-left::before {
-  background: #036A3F none repeat scroll 0 0;
+  background: #8c040b none repeat scroll 0 0;
 }
 .copyright-text p a:hover {
-  color: #036A3F;
+  color: #8c040b;
 }
 .footer-menu-2 li::before {
-  background: #036A3F none repeat scroll 0 0;
+  background: #8c040b none repeat scroll 0 0;
 }
 /*Theme */
 .pro-rating a {
-  color: #036A3F;
+  color: #8c040b;
 }
 .action-button > li:hover > a {
-  background: #036A3F;
-  border-color: #036A3F;
+  background: #8c040b;
+  border-color: #8c040b;
 }
 .banner-button a:hover {
-  color: #036A3F;
+  color: #8c040b;
 }
 .product-item-2 .action-button > li:hover > a {
-  color: #036A3F;
+  color: #8c040b;
 }
 .pro-tab-menu-2 ul li.active::before {
-  background: #036A3F none repeat scroll 0 0;
+  background: #8c040b none repeat scroll 0 0;
 }
 .breadcrumb-list > li:hover::before {
-  color: #036A3F;
+  color: #8c040b;
 }
 .breadcrumb-list > li:hover > a {
-  color: #036A3F;
+  color: #8c040b;
 }
 .shop-tab li.active a {
-  color: #036A3F;
+  color: #8c040b;
 }
 .shop-pagination > li.active a,
 .shop-pagination > li:hover a {
-  border-color: #036A3F;
-  color: #036A3F;
+  border-color: #8c040b;
+  color: #8c040b;
 }
 .widget-search button:hover {
-  color: #036A3F;
+  color:#8c040b;
 }
 .product-cat .treeview .collapsable > a {
-  color: #036A3F;
+  color: #8c040b;
 }
 .ui-slider .ui-slider-range {
-  background: #036A3F none repeat scroll 0 0;
+  background: #8c040b none repeat scroll 0 0;
 }
 .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
-  background: #036A3F none repeat scroll 0 0;
+  background: #8c040b none repeat scroll 0 0;
 }
 .widget-color ul li::before {
-  background: #036A3F none repeat scroll 0 0;
+  background: #8c040b none repeat scroll 0 0;
 }
 .p-c a.active img {
-  border: 1px solid #036A3F;
+  border: 1px solid #8c040b;
 }
 .cart-tab li a.active {
-  color: #036A3F;
+  color: #8c040b;
 }
 .cart-tab li a.active span {
-  border: 1px solid #036A3F;
+  border: 1px solid #8c040b;
 }
 .product-remove a:hover {
-  color: #036A3F;
+  color: #8c040b;
 }
 .product-add-cart a:hover {
-  color: #036A3F;
+  color: #8c040b;
 }
 .order-total {
-  color: #036A3F;
+  color: #8c040b;
 }
 .order-total-price {
-  color: #036A3F;
+  color: #8c040b;
 }
 .widget-tags-list li:hover a {
-  color: #036A3F;
+  color: #8c040b;
 }
 .blog-like-share li a:hover {
-  color: #036A3F;
+  color: #8c040b;
 }
 .reply-delate li:hover a {
-  color: #036A3F;
+  color: #8c040b;
 }
 .bg-shape:hover:before {
- background: #036A3F none repeat scroll 0 0;
+ background: #8c040b none repeat scroll 0 0;
 }
