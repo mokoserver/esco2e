@@ -2,11 +2,11 @@ import {Image} from "./image";
 import {ProductOption} from "./product-option";
 export interface Product {
     _id: string
-    category: boolean,
+    category: string,
     description: string,
-    images: Image[],
+    //images: Image[],
     price: string,
-    product_options: ProductOption[],
+    //product_options: ProductOption[],
     store: string
     title: string
 }
